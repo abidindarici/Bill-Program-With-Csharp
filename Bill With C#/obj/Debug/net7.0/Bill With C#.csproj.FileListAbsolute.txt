@@ -1,0 +1,15 @@
+/Users/abidindarici/Documents/Projeler/C# Project/Bill With C#/bin/Debug/net7.0/Bill With C#
+/Users/abidindarici/Documents/Projeler/C# Project/Bill With C#/bin/Debug/net7.0/Bill With C#.deps.json
+/Users/abidindarici/Documents/Projeler/C# Project/Bill With C#/bin/Debug/net7.0/Bill With C#.runtimeconfig.json
+/Users/abidindarici/Documents/Projeler/C# Project/Bill With C#/bin/Debug/net7.0/Bill With C#.dll
+/Users/abidindarici/Documents/Projeler/C# Project/Bill With C#/bin/Debug/net7.0/Bill With C#.pdb
+/Users/abidindarici/Documents/Projeler/C# Project/Bill With C#/obj/Debug/net7.0/Bill With C#.csproj.AssemblyReference.cache
+/Users/abidindarici/Documents/Projeler/C# Project/Bill With C#/obj/Debug/net7.0/Bill With C#.GeneratedMSBuildEditorConfig.editorconfig
+/Users/abidindarici/Documents/Projeler/C# Project/Bill With C#/obj/Debug/net7.0/Bill With C#.AssemblyInfoInputs.cache
+/Users/abidindarici/Documents/Projeler/C# Project/Bill With C#/obj/Debug/net7.0/Bill With C#.AssemblyInfo.cs
+/Users/abidindarici/Documents/Projeler/C# Project/Bill With C#/obj/Debug/net7.0/Bill With C#.csproj.CoreCompileInputs.cache
+/Users/abidindarici/Documents/Projeler/C# Project/Bill With C#/obj/Debug/net7.0/Bill With C#.dll
+/Users/abidindarici/Documents/Projeler/C# Project/Bill With C#/obj/Debug/net7.0/refint/Bill With C#.dll
+/Users/abidindarici/Documents/Projeler/C# Project/Bill With C#/obj/Debug/net7.0/Bill With C#.pdb
+/Users/abidindarici/Documents/Projeler/C# Project/Bill With C#/obj/Debug/net7.0/Bill With C#.genruntimeconfig.cache
+/Users/abidindarici/Documents/Projeler/C# Project/Bill With C#/obj/Debug/net7.0/ref/Bill With C#.dll
